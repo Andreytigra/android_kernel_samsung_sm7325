@@ -1,0 +1,10 @@
+out/
+*.o
+*.ko
+*.cmd
+*.dtb
+*.dtbo
+*.bak
+*.orig
+*.rej
+build.log
